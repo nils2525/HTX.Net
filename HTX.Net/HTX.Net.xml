@@ -5735,6 +5735,11 @@
             Loan available
             </summary>
         </member>
+        <member name="F:HTX.Net.Enums.BalanceType.Lending">
+            <summary>
+            Lending
+            </summary>
+        </member>
         <member name="T:HTX.Net.Enums.BusinessType">
             <summary>
             Business type
